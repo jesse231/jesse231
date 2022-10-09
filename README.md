@@ -4,6 +4,10 @@
 - 🌱 I’m currently learning rust, swift and cryptography
 - 📫 How to reach me 
   - [Linkedin](https://www.linkedin.com/in/jesse-seeligsohn/)
+  
+  
+<img src="https://github-readme-stats.vercel.app/api?username=jesse231&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jesse231"/>
 
 <!---
 jesse231/jesse231 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
