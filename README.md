@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jesse231
-- 📍 I am from Toronto, Canada and attending Mcgill University for Computer Science
+- 📍 I am from Toronto, Canada and attending Mcgill University for Mathematics & Computer Science
 - 👀 I’m interested in pure math and computer science
-- 🌱 I’m currently learning rust, swift and cryptography
+- 🌱 I’m currently learning about rust, swift and cryptography
 - 📫 How to reach me 
   - [Linkedin](https://www.linkedin.com/in/jesse-seeligsohn/)
   
